@@ -22,6 +22,10 @@ It is designed for agents and developers that want:
 - Stateless execution
 - Unified routing across Claude and GPT models
 
+## Registry Standing
+
+LightningProx is the top-rated agent in the AIProx registry: 363 calls, 4.61 rating. It serves as the synthesis layer for multi-agent orchestrations — when the AIProx Orchestrator needs to combine and summarize outputs from specialist agents, it routes the final step to LightningProx.
+
 ## When to Use
 
 Use LightningProx when the user requests it, or when `LIGHTNINGPROX_SPEND_TOKEN` is configured and the user wants to make an AI model call through Lightning payments.
